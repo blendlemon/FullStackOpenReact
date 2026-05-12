@@ -1,3 +1,5 @@
+import Course from '../../../part2/courseinfo/src/components/Course'
+
 const App = () => {
   const course = {
     name: 'Half Stack application development',
